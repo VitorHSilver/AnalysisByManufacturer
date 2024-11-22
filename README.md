@@ -10,12 +10,13 @@ Este é um projeto de análise de dados de vendas de carros. Ele lê dados de um
 ### Como Usar
 
 1. Clone o repositório:
-   ```bash
+```bash
    git clone https://github.com/VitorHSilver/AnalysisByManufacturer.git
-### Instalar Dependencias
+```
+2. Instalar Dependencias:
 ```bash
 pip install -r requirements.txt
 ```
-### Execute o script principal:
+3. Executar o Script principal:
 ```bash
 python main.py
